@@ -43,3 +43,9 @@ The GPA is calculated based on the following grading system:
 | 40-44       | E     | 1           | Pass                 |
 | 0-39        | F     | 0           | Fail                 |
 
+### Overall Remark:
+- Outstanding >= 4.5
+- Excellent >= 3.5
+- Good >= 2.5
+- Average >= 1.5
+- Below Average < 1.5
