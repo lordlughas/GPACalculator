@@ -19,19 +19,20 @@ This repository contains a simple Java program for calculating the Grade Point A
 2. **Compile and Run:**
     ```bash
     cd gpa-calculator
-    javac com/mycompany/gpacalculator/logic/GpaCalculatorLogic.java
-    java com.mycompany.gpacalculator.logic.GpaCalculatorLogic
+    javac com/mycompany/gpacalculator/logic/GpaCalculator.java
+    java com.mycompany.gpacalculator.logic.GpaCalculator
     ```
 
 3. **Follow the prompts to input course details.**
    - Enter 'exit' to finish entering courses.
 
 4. **View Results:**
-   - The program will display a table of course information and the calculated GPA.
+   - The program will display a table of course information, the calculated GPA, and the overall remark.
 
 ## Grading System
 
 The GPA is calculated based on the following grading system:
+
 
 | Score Range | Grade | Grade Point | Remark               |
 |-------------|-------|-------------|----------------------|
