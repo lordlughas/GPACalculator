@@ -8,6 +8,7 @@ This repository contains a simple Java program for calculating the Grade Point A
 - Calculate course grade and display remarks.
 - Tabulate course information in a table.
 - Calculate overall GPA.
+- Display overall remark based on GPA.
 
 ## Usage
 
