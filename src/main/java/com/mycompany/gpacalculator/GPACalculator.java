@@ -77,6 +77,9 @@ public class GPACalculator {
             // Display overall GPA
             System.out.printf("Your GPA is = %.2f to 2 decimal places.%n", gpa);
             
+            String overallRemark = Course.getOverallRemark(gpa);
+            System.out.printf("Overall Remark: %s%n", overallRemark);
+            
 
         }
 

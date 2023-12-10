@@ -74,5 +74,20 @@ public class Course {
             return "Fail";
         }
     }
+    
+    public static String getOverallRemark(double gpa) {
+        if (gpa >= 4.5) {
+            return "Outstanding";
+        } else if (gpa >= 3.5) {
+            return "Excellent";
+        } else if (gpa >= 2.5) {
+            return "Good";
+        } else if (gpa >= 1.5) {
+            return "Average";
+        } else {
+            return "Below Average";
+        }
+
+    }
 }
 
