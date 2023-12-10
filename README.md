@@ -20,8 +20,8 @@ This repository contains a simple Java program for calculating the Grade Point A
 2. **Compile and Run:**
     ```bash
     cd gpa-calculator
-    javac com/mycompany/gpacalculator/logic/GpaCalculator.java
-    java com.mycompany.gpacalculator.logic.GpaCalculator
+    javac com/mycompany/gpacalculator/GpaCalculator.java
+    java com.mycompany.gpacalculator.GpaCalculator
     ```
 
 3. **Follow the prompts to input course details.**
